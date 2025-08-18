@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: octocat/skills-hello-github-actions@be47c6b600178a9671dacf1d52b8dd8a37cc3b85
+        uses: jimmyhu213/skills-hello-github-actions@be47c6b600178a9671dacf1d52b8dd8a37cc3b85
         with:
           who-to-greet: Mona the Octocat
 
